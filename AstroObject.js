@@ -58,10 +58,12 @@ class AstroObject
       //sum up force vectors
       this.Force.add(temp_v);
       
+      /*
       //if(obj.name=="Sun" && this.name=="Earth")
       //  {
       //    print(d);
       //  }
+      */
       
     }
     
